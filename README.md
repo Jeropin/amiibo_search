@@ -1,5 +1,5 @@
 # amiibo_search
-## Final Project for Web Design (May 2020)
+## Final Project for Current Trends in Web Design and Development (May 2020)
 
 The final project is about creating a search engine while utilizing an API.
 
