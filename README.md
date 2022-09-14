@@ -10,14 +10,14 @@ The final project is about creating a search engine while utilizing an API.
 
 TO RUN THE PROJECT  
 
-1) Run Command Line
-	 File Path: Final -> amiibos
-	 run: npm install package.json
+1) Run Command Line  
+	 File Path: Final -> amiibos  
+	 run: npm install package.json  
 
-2) Run Command Line
-	 File Path: vue-amiibos-app -> server
-	 run: npm install package.json
+2) Run Command Line  
+	 File Path: vue-amiibos-app -> server  
+	 run: npm install package.json  
 
-2) Run Command Line
-   File Path: vue-amiibos-app -> server
-   Run: node server.js
+2) Run Command Line  
+   File Path: vue-amiibos-app -> server  
+   Run: node server.js  
