@@ -1,0 +1,10 @@
+1) Run Command Line
+	File Path: Final -> amiibos
+	run: npm install package.json
+
+2) Run Command Line
+	File Path: vue-amiibos-app -> server
+	run: npm install package.json
+
+2) Run Command Line
+   	Run: node server.js
